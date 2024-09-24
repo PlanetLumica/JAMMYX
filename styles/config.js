@@ -56,7 +56,7 @@ let options = {
         itemOrder: "asc",
 
         filterColumn: 'Design Type',
-        searchFilterParams: ['ID', 'Owner', 'Designer', 'Artist'],
+        searchFilterParams: ['ID', 'Owner', 'Designer', 'Traits'],
         fauxFolderColumn: 'Species',
 
     },
@@ -87,7 +87,7 @@ let options = {
         logSheetPage: sheetPages.inventoryLog,
     
         itemAmount: 24,
-        sortTypes: ['Currency', 'MYO Slot', 'Pet', 'Trait', 'Misc'],
+        sortTypes: ['Currency', 'MYO Slot', 'Trait', 'Misc'],
         
         searchFilterParams: ['Username'],
     
