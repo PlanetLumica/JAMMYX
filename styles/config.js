@@ -118,7 +118,7 @@ let options = {
         itemOrder: "asc",
 
         filterColumn: 'Rarity',
-        searchFilterParams: ['Trait'],
+        searchFilterParams: ['Trait', 'Item'],
         fauxFolderColumn: 'Type',
     
     },
